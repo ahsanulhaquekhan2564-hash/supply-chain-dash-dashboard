@@ -1,6 +1,6 @@
 # Supply Chain Dash Dashboard (Intro to Python – Group Project)
 
-![Dashboard preview](dashboard_preview.png)
+![Dashboard preview](dash.png)
 
 Interactive analytics dashboard built with **Dash + Plotly** to answer five research questions (RQ1–RQ5) on a supply chain dataset.  
 This repository showcases an end-to-end workflow: **data standardization → modular analyses → a single working dashboard app**.
