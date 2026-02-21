@@ -26,6 +26,8 @@ I do not claim individual authorship of teammates’ analysis modules.
 The original dataset is not included due to usage restrictions.
 
 ## How to run
+Place the dataset file in the project root as supply_chain_dataset1.csv (not included due to restrictions).
+If you don’t have the dataset, the app won’t run, but the code + visuals show the full logic
 ```bash
 pip install -r requirements.txt
 python app.py
