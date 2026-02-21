@@ -1,0 +1,7 @@
+### requirements.txt
+Create a file called `requirements.txt` with:
+```txt
+pandas
+plotly
+dash
+dash-bootstrap-components
