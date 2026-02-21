@@ -26,4 +26,4 @@ The original dataset is not included due to usage restrictions.
 ## How to run
 ```bash
 pip install -r requirements.txt
-python Programming_main.py
+python app.py
